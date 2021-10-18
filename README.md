@@ -8,4 +8,4 @@ DDL RA Coding Test - A test of my spatial data assessment abilties in R using an
 YCOM_2016_Data.csv - csv file used for DDL RA Coding Test.
 
 ggplot_code_sample.r - Multiple examples of plots created using mainly the ggplot2 and ggthemes packages for my thesis paper, Prioritizing streams: the impacts of in-kind
-mitigation rules on an ecosystem offset market. 
+mitigation rules on an ecosystem offset market. These plots were used primarily for supplementary material sections.
