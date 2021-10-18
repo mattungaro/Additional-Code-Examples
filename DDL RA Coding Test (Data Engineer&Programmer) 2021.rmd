@@ -1,12 +1,4 @@
----
-title: "DDL RA Applicant Exercise (Data Engineer)"
-author: "Matthew Ungaro"
-date: "3/18/2021"
-output: html_document
----
 
-# Data Engineer Test (Potential RAship Summer 2021)
-## 3.18.2021
 
 These are my results of the test related to the Data Engineer Position.
 
