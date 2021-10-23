@@ -1,8 +1,8 @@
 # Additional-Code-Examples
 
-YCOM_2016_Data.csv - csv file used for DDL RA Coding Test.
 
-cost_living_homelessness.r - graphing cost of living as compared to homelessness rates.
+
+Cost_living_homelessness.r - graphing cost of living as compared to homelessness rates.
 
 leaflet2.rmd - teaching myself to use leaflet.
 
